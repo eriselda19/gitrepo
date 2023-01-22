@@ -87,7 +87,7 @@ public class UserDetails implements UserInterface{
 //  Display the result upon successful operation
 //  Display the result upon unsuccessful operation
     @Override
-    public void searchFileInDirectory(String name) {
+    public void searchFileInDirectory() {
 
     }
 

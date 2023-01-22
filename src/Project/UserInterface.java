@@ -6,7 +6,7 @@ public interface UserInterface {
     void addFileToDirectory() throws Exception;
     void deleteFileInDirectory() throws Exception;
 
-    void searchFileInDirectory(String name);
+    void searchFileInDirectory();
     void navigateBack();
     void closeApplication();
 }
